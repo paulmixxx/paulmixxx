@@ -2,11 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=paulmixxx)
 
-
 - :v: Программирую на PHP и не только
 - :heart: Люблю Domain-Driven Design и Чистую архитектуру
 - :ship: Практикую DevOps
 - :four_leaf_clover: Помогаю начинающим инженерам
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulmixxx&theme=solarized_dark)
 
 <!--
 **paulmixxx/paulmixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
