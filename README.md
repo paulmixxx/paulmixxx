@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=paulmixxx)
 
-- :v: Программирую на PHP и не только
+- :v: Проектирую Backend
 - :heart: Люблю Domain-Driven Design и Чистую архитектуру
 - :ship: Практикую DevOps
 - :four_leaf_clover: Помогаю начинающим инженерам
